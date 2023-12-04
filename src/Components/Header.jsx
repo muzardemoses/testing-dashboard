@@ -56,9 +56,9 @@ export const Header = () => {
               <Image
                 alt="messages svg"
                 src="/Images/Dashboard/messages-dots.svg"
-                className="h-full w-full"
-                height={28}
-                width={28}
+                className="h-7 w-7"
+                // height={28}
+                // width={28}
               />
             </div>
             <p className="h-3 w-3 absolute bg-[#ED4C78] rounded-full border-white border-2 top-0 right-0"></p>
